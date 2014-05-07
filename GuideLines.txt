@@ -1,4 +1,4 @@
-Linux Hand Book For Trainers
+Linux Hand Book For Trainers and Teachers
 
 PART 1
 Introduction
@@ -29,6 +29,10 @@ FAQ'S
 	and many more ...
 
 Why  this handbook?
-We visit different rural areas of Nepal for the deployment of LTSP system. We may face problems that require consulting books or website and in those area net won't be available. Thus this handbooks contains most of the frequently used commands and description of tools that will help trainers to solve their problem.  
+We visit different rural areas of Nepal for the deployment of LTSP system. 
+We may face problems that require consulting books or website and in those area internet won't be available. 
+Thus this handbooks contains most of the frequently used commands and description of tools that will help trainers to 
+solve the problems they might encounter. Also, certain portions of this handbook can be edited and used as handbook for
+the teachers.
 
 
