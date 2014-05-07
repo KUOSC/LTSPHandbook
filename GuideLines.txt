@@ -1,0 +1,34 @@
+Linux Hand Book For Trainers
+
+PART 1
+Introduction
+	1.Linux OS
+	2.Linux File system
+	3.Installation of Linux distribution(Ubuntu)
+	4.LTSP
+	5.Thin and Fat client
+	6.Switch and Routers
+	7.Network Bridge and cabling
+	8.Desktop Environment
+
+PART 2
+Core 
+	1.Commands and tools related to files,directory and permission
+	2.Commands and tools related to user modification
+	3.Commands and tools related to install and remove application
+	4.Commands and tools  of LTSP content
+	5.Commands and tools related to networks
+	6.Commands and tools for troubleshooting
+
+PART 3
+FAQ'S
+	This part will cover most of the problems that we face with their solution.
+	1.Fixing GRUB error 
+	2.Fixing boot on LAN error
+	3.DHCP problem
+	and many more ...
+
+Why  this handbook?
+We visit different rural areas of Nepal for the deployment of LTSP system. We may face problems that require consulting books or website and in those area net won't be available. Thus this handbooks contains most of the frequently used commands and description of tools that will help trainers to solve their problem.  
+
+
